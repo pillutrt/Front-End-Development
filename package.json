@@ -1,0 +1,19 @@
+{
+  "name": "front-end-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillutrt/Front-End-Development.git"
+  },
+  "author": "Rohit Pillutla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pillutrt/Front-End-Development/issues"
+  },
+  "homepage": "https://github.com/pillutrt/Front-End-Development#readme"
+}
